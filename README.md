@@ -8,8 +8,7 @@
 </p>
 
 <!-- Repo Stats -->
-<img align="center" src="https://img.shields.io/github/commit-activity/m/CrashOverrideProductions/3D-Print-Files"> <img align="center" src="https://img.shields.io/github/last-commit/CrashOverrideProductions/3D-Print-Files"> <img align="center" src="https://img.shields.io/github/3D-Print-Files/code-size/CrashOverrideProductions/3D-Print-Files"> <img align="center" src="https://img.shields.io/github/directory-file-count/CrashOverrideProductions/FDSLoader">
-
+<img align="center" src="https://img.shields.io/github/commit-activity/m/CrashOverrideProductions/3D-Print-Files"> <img align="center" src="https://img.shields.io/github/last-commit/CrashOverrideProductions/3D-Print-Files"> <img align="center" src="https://img.shields.io/github/languages/code-size/CrashOverrideProductions/3D-Print-Files"> <img align="center" src="https://img.shields.io/github/directory-file-count/CrashOverrideProductions/3D-Print-Files">
 <!-- Repo Intro -->
 ### Details
 This Repository contains 3D models and design files created by me, they may or may not be accurate therefore use at your own risk.
